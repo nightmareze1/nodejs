@@ -1,6 +1,6 @@
 {
   "name": "nodejs-hello-world",
-  "version": "0.0as.1",
+  "version": "1.0.0",
   "description": "Hello World sample app",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,6 @@
   },
   "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme",
   "devDependencies": {
-    "@storybook/addon-actions": "4.1.6",
-    "@storybook/addon-links": "4.1.6",
-    "@storybook/addons": "4.1.6",
-    "@storybook/react": "4.1.6",
+    "@storybook/addon-actions": "4.1.6"
   }
 }
