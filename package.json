@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-hello-world",
+  "version": "0.0as.1",
+  "description": "Hello World sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
+  },
+  "author": "fhinkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme",
+  "devDependencies": {
+    "@storybook/addon-actions": "4.1.6",
+    "@storybook/addon-links": "4.1.6",
+    "@storybook/addons": "4.1.6",
+    "@storybook/react": "4.1.6",
+  }
+}
